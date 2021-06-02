@@ -1,2 +1,2 @@
 # Datacamp-Projects
-I have attached the .ipynb files where I have done my Datacamp projects.
+I have performed an exploratory analysis of some entertainment data to conclude whether the duration of movies have decreased over time or not.
